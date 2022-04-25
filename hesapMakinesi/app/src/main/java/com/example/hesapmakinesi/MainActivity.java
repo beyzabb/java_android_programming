@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                     else{
                         uyari.setVisibility(view.VISIBLE);
-                        uyari.setText("Lütfen ikinci alanlarını boş bırakmayınız!");
+                        uyari.setText("Lütfen ikinci sayı için geçerli bir değer giriniz!");
                     }
                 }
             });
@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                     else{
                         uyari.setVisibility(view.VISIBLE);
-                        uyari.setText("Lütfen ikinci alanlarını boş bırakmayınız!");
+                        uyari.setText("Lütfen ikinci sayı için geçerli bir değer giriniz!");
                     }
                 }
             });
@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                     else{
                         uyari.setVisibility(view.VISIBLE);
-                        uyari.setText("Lütfen ikinci alanlarını boş bırakmayınız!");
+                        uyari.setText("Lütfen ikinci sayı için geçerli bir değer giriniz!");
                     }
 
                 }
@@ -122,7 +122,7 @@ public class MainActivity extends AppCompatActivity {
                         }
                         else{
                             uyari.setVisibility(view.VISIBLE);
-                            uyari.setText("Lütfen ikinci alanlarını boş bırakmayınız!");
+                            uyari.setText("Lütfen ikinci sayı için geçerli bir değer giriniz!");
 
                         }
 
