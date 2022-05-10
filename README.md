@@ -33,6 +33,13 @@ Bu repo BELTEK Android Programlama kursunun kodlarını ve notlarını kaydetmek
 + Toast kullanımı
 + Proje: Basit hesap makinesi
 <!-- ![Hesap Makinesi App](pictures/android_hesapMakinesi.jpg) -->
-<img src="pictures/android_hesapMakinesi.jpg" alt="drawing" width="200"/>
-<img src="pictures/android_hesapMakinesi_2.jpg" alt="drawing" width="200"/>
-<img src="pictures/android_hesapMakinesi_3.jpg" alt="drawing" width="200"/>
+<img src="pictures/android_hesapMakinesi.jpg" alt="drawing" width="150"/>
+<img src="pictures/android_hesapMakinesi_2.jpg" alt="drawing" width="150"/>
+<img src="pictures/android_hesapMakinesi_3.jpg" alt="drawing" width="150"/>
+
+
+7. *ders_26042022:*
+
++ Intent kullanımı
++ ImageView kullanımı
++ Proje: Basit app giriş ve kullanıcı ekranı yapımı
