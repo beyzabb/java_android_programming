@@ -41,3 +41,7 @@ Bu repo BELTEK Android Programlama kursunun kodlarını ve notlarını kaydetmek
 + Intent kullanımı
 + ImageView kullanımı
 + Proje: Basit app giriş ve kullanıcı ekranı yapımı
+
+8. *ders_28042022:*
+
++ ImageView ImageResource kaynağını değiştirerek aynı imageview'a farklı resim atama uygulaması
